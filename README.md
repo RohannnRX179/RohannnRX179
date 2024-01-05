@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Rathod</h1>
 <h3 align="center">A Full Stack Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" scr="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/RohannnRX179/RohannnRX179/assets/120187364/f90248d0-b4e6-4e29-aeea-f9fafd405adf)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohannnrx179&label=Profile%20views&color=0e75b6&style=flat" alt="rohannnrx179" /> </p>
 
