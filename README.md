@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/RohannnRX179/RohannnRX179/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
 
 
 
